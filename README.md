@@ -1,4 +1,4 @@
-# Command Line Pandas Killers 
+# [Command Line Pandas Killers](https://xvzftube.xyz/posts/pandas_killers/)
 
 The purpose of this work is to compare some of the popular command line data
 manipulation tools. I make an attempt to cover many of the highly used
